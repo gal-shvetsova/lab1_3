@@ -7,6 +7,6 @@ public class Main {
         if (guessNumber.game())
             System.out.println("You won!");
         else
-            System.out.println(("You lose"));
+            System.out.println(("You lose!"));
     }
 }
